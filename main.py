@@ -142,3 +142,7 @@ for index, item in enumerate(minha_string):
 # 4 r
 # 5 o
 # 6 s
+
+p = 5
+p = 10
+print(p)
